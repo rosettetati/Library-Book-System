@@ -69,7 +69,7 @@ int main() {
     // Create some books
     LibraryBook book1; // default constructor
     LibraryBook book2("VBC Study Guide", 3); // parameterized
-    LibraryBook book3(book2); // copy constructor
+    LibraryBook book3("The Great Gedimino", 3); // copy constructor
 
     cout << "=== Initial Book Info ===" << endl;
     book1.displayInfo();
