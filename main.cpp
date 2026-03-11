@@ -10,7 +10,7 @@ private:
 public:
     // Default constructor
     LibraryBook() {
-        title = "Unknown Title";
+        title = "A Walk In The Night";
         copies = 1;
     }
 
@@ -68,7 +68,7 @@ public:
 int main() {
     // Create some books
     LibraryBook book1; // default constructor
-    LibraryBook book2("The Great Gatsby", 3); // parameterized
+    LibraryBook book2("VBC Study Guide", 3); // parameterized
     LibraryBook book3(book2); // copy constructor
 
     cout << "=== Initial Book Info ===" << endl;
