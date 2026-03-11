@@ -44,11 +44,4 @@ The project demonstrates **object-oriented programming (OOP) concepts** such as:
   - Demonstrates all constructors
   - Interactive menu for borrowing, returning, updating, and displaying books
 
----
 
-## How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/LibrarySystem-Cpp.git
